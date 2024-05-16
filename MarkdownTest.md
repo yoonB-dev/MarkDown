@@ -3,9 +3,10 @@
 ## hello2
 ###### hello6
 
+
 <!-- line -->
 ---
-
+***
 <!-- Text -->
 this is the **Bold** text and this is ths *italic* text and let's do ~~strikethrough~~
 
@@ -24,11 +25,13 @@ Fruits
 Click : [hear](https://github.com/yoonB-dev)
 
 <!-- Image -->
-![image descriptino](address)
+![image descriptino](https://ibb.co/rxyhX3b)
+
+[Image] : https://ibb.co/rxyhX3b "이미지입니다!"
 
 <!-- Table -->
 |Header|Description|
-|:--|:--|
+|:--:|--:|
 |cell1|cell2|
 |cell3|cell4|
 |cell5|cell6|
